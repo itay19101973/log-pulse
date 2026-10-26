@@ -3,7 +3,7 @@
 #include "LogParser.hpp"
 
 int main() {
-    std::cout << "--- LogPulse Production Analyzer v3.---3-3-3-3-33.0 ---" << std::endl;
+    std::cout << "--- LogPulse Engine v1.9-hotfix ---" << std::endl;
     
     std::vector<std::string> sampleLogs = {
     "[INFO] Database connection established",
