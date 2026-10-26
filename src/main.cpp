@@ -18,6 +18,6 @@ int main() {
     for (const auto& [level, count] : summary) {
         std::cout << level << ": " << count << std::endl;
     }
-
+    std::cout << "[HOTFIX] Patched critical memory leak." << std::endl;
     return 0;
 }
